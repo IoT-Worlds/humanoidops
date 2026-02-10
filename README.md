@@ -151,24 +151,98 @@ To avoid confusion, the following are explicitly out of scope for v0.1:
 
 These may appear in future releases.
 
-[ Humanoid Robot ]
-   ├─ Sensors / Joints / System Metrics
-   ├─ Agent / SDK
-   │
-   ▼
-[ Secure Ingestion Layer ]
-   ├─ REST / MQTT / WebSocket
-   │
-   ▼
-[ HumanoidOps Core ]
-   ├─ Identity & Registry
-   ├─ Telemetry Store
-   ├─ Alerting Engine
-   ├─ Audit Logs
-   │
-   ▼
-[ Dashboard & API ]
-   ├─ Fleet View
-   ├─ Robot View
-   ├─ External Integrations
+🧪 Who This Project Is For
 
+Humanoid robot manufacturers
+
+Robotics startups
+
+System integrators
+
+Researchers & labs
+
+Enterprises exploring humanoid deployment
+
+Not designed for consumer robots or hobby projects (yet).
+
+🧭 Project Philosophy
+
+Vendor-neutral
+
+Security-first
+
+Open by default
+
+Enterprise-ready mindset
+
+No hype, only real operations
+
+Humanoid robots deserve the same operational maturity as cloud and industrial systems.
+
+🛣️ Roadmap (High Level)
+v0.1 (current)
+
+Identity
+
+Telemetry
+
+Dashboard
+
+Alerts
+
+Security baseline
+
+v0.2
+
+OTA updates
+
+Role-based access control
+
+Improved observability
+
+Video streaming (read-only)
+
+v1.0
+
+Tele-operation (safe mode)
+
+Training & replay
+
+Advanced diagnostics
+
+Enterprise security modules
+
+🤝 Contributing
+
+Contributions are welcome:
+
+code
+
+documentation
+
+integrations
+
+design feedback
+
+real-world use cases
+
+Please see CONTRIBUTING.md (coming soon).
+
+🌍 About
+
+HumanoidOps is initiated by IoT Worlds, a global platform focused on IoT, AI, cybersecurity and emerging technologies.
+
+The goal is to help the humanoid robotics ecosystem scale safely, securely, and responsibly.
+
+📣 Get Involved
+
+Star ⭐ the repo
+
+Open an issue
+
+Share feedback
+
+Help define the future of humanoid robot operations
+
+Humanoid robots are coming.
+Operations and security must come with them.
