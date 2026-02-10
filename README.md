@@ -150,3 +150,25 @@ To avoid confusion, the following are explicitly out of scope for v0.1:
 ❌ Plugin marketplace
 
 These may appear in future releases.
+
+[ Humanoid Robot ]
+   ├─ Sensors / Joints / System Metrics
+   ├─ Agent / SDK
+   │
+   ▼
+[ Secure Ingestion Layer ]
+   ├─ REST / MQTT / WebSocket
+   │
+   ▼
+[ HumanoidOps Core ]
+   ├─ Identity & Registry
+   ├─ Telemetry Store
+   ├─ Alerting Engine
+   ├─ Audit Logs
+   │
+   ▼
+[ Dashboard & API ]
+   ├─ Fleet View
+   ├─ Robot View
+   ├─ External Integrations
+
