@@ -246,3 +246,6 @@ Help define the future of humanoid robot operations
 
 Humanoid robots are coming.
 Operations and security must come with them.
+
+<img width="1536" height="1024" alt="HumanoidOps v0 1 System Architecture" src="https://github.com/user-attachments/assets/f7100115-bf96-4136-bc53-a6e5a588a90e" />
+
