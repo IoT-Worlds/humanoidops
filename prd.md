@@ -2195,7 +2195,7 @@ The following features are **explicitly NOT included** in v0.1 to maintain focus
 - [ ] Create GitHub Release with release notes
 - [ ] Update README with installation instructions
 - [ ] Publish announcement blog post
-- [ ] Share on Hacker News, Reddit (r/robotics, r/golang, r/Python)
+- [ ] Share on Reddit (r/robotics, r/golang, r/Python), blogs, tech websites, other social networks
 - [ ] Monitor GitHub Issues for bug reports
 
 ### Post-Release (First 30 Days)
